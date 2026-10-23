@@ -1,5 +1,3 @@
-
-
 {
   "categories": [
     "Backend",
@@ -20,74 +18,34 @@
       "tags": ["local", "backend"]
     },
     {
-      "name": "Game Host Manager",
-      "description": "Manage multiple game instances with ease. Includes automatic restart, monitoring, and resource management.",
-      "category": "Host",
-      "imageUrl": "https://via.placeholder.com/280x140/E24A90/FFFFFF?text=Host+Manager",
-      "downloadUrl": "https://github.com/username/repo/releases/download/v1.2.1/host-manager.dll",
-      "version": "1.2.1",
-      "author": "Host Developer",
-      "tags": ["host", "management", "monitoring", "multi-instance"]
+      "name": "Nexa Backend",
+      "description": "Local Backend",
+      "category": "Backend",
+      "imageUrl": "https://yt3.googleusercontent.com/XKnzOSqCAxGhGkZLj6lVZ7FBETCANTEtdXfMzQX_cfV3dZhqZtSlgFIKkyH--moCKcFPMFcGtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "downloadUrl": "https://github.com/andr1ww/Nexa/archive/refs/heads/main.zip",
+      "version": "1.0.0",
+      "author": "andr1ww",
+      "tags": ["local", "backend"]
     },
     {
-      "name": "Custom DLL Injector",
-      "description": "Safe and reliable DLL injection tool with support for multiple injection methods and process protection bypass.",
-      "category": "DLL",
-      "imageUrl": "https://via.placeholder.com/280x140/90E24A/FFFFFF?text=DLL+Injector",
-      "downloadUrl": "https://github.com/username/repo/releases/download/v2.0.0/injector.dll",
-      "version": "2.0.0",
-      "author": "Security Expert",
-      "tags": ["injection", "bypass", "protection", "advanced"]
+      "name": "Core Backend",
+      "description": "Fortnite Backend",
+      "category": "Backend",
+      "imageUrl": "https://fnggcdn.com/assets-s/MVKd2I.jpg",
+      "downloadUrl": "https://github.com/1lunarxx/Core-Backend/archive/refs/heads/main.zip",
+      "version": "1.0.0",
+      "author": "1lunarxx",
+      "tags": ["mongodb", "backend", "typescript"]
     },
     {
-      "name": "Graphics Enhancement Plugin",
-      "description": "Enhance your game graphics with custom shaders, improved textures, and post-processing effects.",
-      "category": "Plugin",
-      "imageUrl": "https://via.placeholder.com/280x140/E2904A/FFFFFF?text=Graphics+Plugin",
-      "downloadUrl": "https://github.com/username/repo/releases/download/v1.5.0/graphics-plugin.dll",
-      "version": "1.5.0",
-      "author": "Graphics Dev",
-      "tags": ["graphics", "shaders", "enhancement", "visuals"]
-    },
-    {
-      "name": "Network Debugger",
-      "description": "Debug network traffic, analyze packets, and monitor connections in real-time with detailed logging.",
-      "category": "Utility",
-      "imageUrl": "https://via.placeholder.com/280x140/4AE290/FFFFFF?text=Network+Debugger",
-      "downloadUrl": "https://github.com/username/repo/releases/download/v1.1.0/network-debugger.dll",
-      "version": "1.1.0",
-      "author": "Net Developer",
-      "tags": ["network", "debug", "packets", "monitoring"]
-    },
-    {
-      "name": "Performance Monitor",
-      "description": "Track CPU, RAM, and GPU usage in real-time. Includes performance graphs and optimization suggestions.",
-      "category": "Utility",
-      "imageUrl": "https://via.placeholder.com/280x140/904AE2/FFFFFF?text=Performance+Monitor",
-      "downloadUrl": "https://github.com/username/repo/releases/download/v1.0.5/performance-monitor.dll",
-      "version": "1.0.5",
-      "author": "Perf Team",
-      "tags": ["performance", "monitoring", "optimization", "statistics"]
-    },
-    {
-      "name": "Anti-Cheat Bypass",
-      "description": "Educational tool demonstrating anti-cheat mechanisms. For research purposes only.",
-      "category": "DLL",
-      "imageUrl": "https://via.placeholder.com/280x140/E2E24A/FFFFFF?text=AntiCheat+Research",
-      "downloadUrl": "https://github.com/username/repo/releases/download/v0.9.0/anticheat-research.dll",
-      "version": "0.9.0",
-      "author": "Security Researcher",
-      "tags": ["research", "security", "education", "analysis"]
-    },
-    {
-      "name": "Mod Loader Framework",
-      "description": "Load and manage game mods with version checking, conflict resolution, and automatic updates.",
-      "category": "Plugin",
-      "imageUrl": "https://via.placeholder.com/280x140/4AE2E2/FFFFFF?text=Mod+Loader",
-      "downloadUrl": "https://github.com/username/repo/releases/download/v2.1.0/mod-loader.dll",
-      "version": "2.1.0",
-      "author": "Mod Community",
-      "tags": ["mods", "loader", "framework", "management"]
+      "name": "Reload Backend",
+      "description": "Created by Burlone, This is a modded backend, all main backend credits to Lawin",
+      "category": "Backend",
+      "imageUrl": "https://camo.githubusercontent.com/307d87aa62a47547276a87fdc8b12e8605afe3a36b690cca84ac12dbe17f530e/68747470733a2f2f692e696d6775722e636f6d2f496d497770526d2e706e67",
+      "downloadUrl": "https://github.com/Project-Reload/Reload-Backend/archive/refs/heads/main.zip",
+      "version": "1.0.0",
+      "author": "burlone0",
+      "tags": ["mongodb", "backend", "javascript"]
     }
   ]
 }
