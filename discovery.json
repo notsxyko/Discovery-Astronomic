@@ -1,0 +1,13 @@
+{
+  "categories": ["Backend"],
+  "items": [{
+    "name": "LawinServer V1",
+    "description": "Local Backend",
+    "category": "Backend",
+    "imageUrl": "https://github.com/Lawin0129/LawinServer/blob/main/public/images/motd-s.png?raw=true",
+    "downloadUrl": "https://github.com/Lawin0129/LawinServer/archive/refs/heads/main.zip",
+    "version": "1.0.0",
+    "author": "Lawin0129",
+    "tags": ["local", "backend"]
+  }]
+}
