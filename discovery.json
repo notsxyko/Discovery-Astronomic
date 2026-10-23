@@ -1,13 +1,93 @@
+
+
 {
-  "categories": ["Backend"],
-  "items": [{
-    "name": "LawinServer V1",
-    "description": "Local Backend",
-    "category": "Backend",
-    "imageUrl": "https://github.com/Lawin0129/LawinServer/blob/main/public/images/motd-s.png?raw=true",
-    "downloadUrl": "https://github.com/Lawin0129/LawinServer/archive/refs/heads/main.zip",
-    "version": "1.0.0",
-    "author": "Lawin0129",
-    "tags": ["local", "backend"]
-  }]
+  "categories": [
+    "Backend",
+    "Host",
+    "DLL",
+    "Plugin",
+    "Utility"
+  ],
+  "items": [
+    {
+      "name": "LawinServer V1",
+      "description": "Local Backend",
+      "category": "Backend",
+      "imageUrl": "https://github.com/Lawin0129/LawinServer/blob/main/public/images/motd-s.png?raw=true",
+      "downloadUrl": "https://github.com/Lawin0129/LawinServer/archive/refs/heads/main.zip",
+      "version": "1.0.0",
+      "author": "Lawin0129",
+      "tags": ["local", "backend"]
+    },
+    {
+      "name": "Game Host Manager",
+      "description": "Manage multiple game instances with ease. Includes automatic restart, monitoring, and resource management.",
+      "category": "Host",
+      "imageUrl": "https://via.placeholder.com/280x140/E24A90/FFFFFF?text=Host+Manager",
+      "downloadUrl": "https://github.com/username/repo/releases/download/v1.2.1/host-manager.dll",
+      "version": "1.2.1",
+      "author": "Host Developer",
+      "tags": ["host", "management", "monitoring", "multi-instance"]
+    },
+    {
+      "name": "Custom DLL Injector",
+      "description": "Safe and reliable DLL injection tool with support for multiple injection methods and process protection bypass.",
+      "category": "DLL",
+      "imageUrl": "https://via.placeholder.com/280x140/90E24A/FFFFFF?text=DLL+Injector",
+      "downloadUrl": "https://github.com/username/repo/releases/download/v2.0.0/injector.dll",
+      "version": "2.0.0",
+      "author": "Security Expert",
+      "tags": ["injection", "bypass", "protection", "advanced"]
+    },
+    {
+      "name": "Graphics Enhancement Plugin",
+      "description": "Enhance your game graphics with custom shaders, improved textures, and post-processing effects.",
+      "category": "Plugin",
+      "imageUrl": "https://via.placeholder.com/280x140/E2904A/FFFFFF?text=Graphics+Plugin",
+      "downloadUrl": "https://github.com/username/repo/releases/download/v1.5.0/graphics-plugin.dll",
+      "version": "1.5.0",
+      "author": "Graphics Dev",
+      "tags": ["graphics", "shaders", "enhancement", "visuals"]
+    },
+    {
+      "name": "Network Debugger",
+      "description": "Debug network traffic, analyze packets, and monitor connections in real-time with detailed logging.",
+      "category": "Utility",
+      "imageUrl": "https://via.placeholder.com/280x140/4AE290/FFFFFF?text=Network+Debugger",
+      "downloadUrl": "https://github.com/username/repo/releases/download/v1.1.0/network-debugger.dll",
+      "version": "1.1.0",
+      "author": "Net Developer",
+      "tags": ["network", "debug", "packets", "monitoring"]
+    },
+    {
+      "name": "Performance Monitor",
+      "description": "Track CPU, RAM, and GPU usage in real-time. Includes performance graphs and optimization suggestions.",
+      "category": "Utility",
+      "imageUrl": "https://via.placeholder.com/280x140/904AE2/FFFFFF?text=Performance+Monitor",
+      "downloadUrl": "https://github.com/username/repo/releases/download/v1.0.5/performance-monitor.dll",
+      "version": "1.0.5",
+      "author": "Perf Team",
+      "tags": ["performance", "monitoring", "optimization", "statistics"]
+    },
+    {
+      "name": "Anti-Cheat Bypass",
+      "description": "Educational tool demonstrating anti-cheat mechanisms. For research purposes only.",
+      "category": "DLL",
+      "imageUrl": "https://via.placeholder.com/280x140/E2E24A/FFFFFF?text=AntiCheat+Research",
+      "downloadUrl": "https://github.com/username/repo/releases/download/v0.9.0/anticheat-research.dll",
+      "version": "0.9.0",
+      "author": "Security Researcher",
+      "tags": ["research", "security", "education", "analysis"]
+    },
+    {
+      "name": "Mod Loader Framework",
+      "description": "Load and manage game mods with version checking, conflict resolution, and automatic updates.",
+      "category": "Plugin",
+      "imageUrl": "https://via.placeholder.com/280x140/4AE2E2/FFFFFF?text=Mod+Loader",
+      "downloadUrl": "https://github.com/username/repo/releases/download/v2.1.0/mod-loader.dll",
+      "version": "2.1.0",
+      "author": "Mod Community",
+      "tags": ["mods", "loader", "framework", "management"]
+    }
+  ]
 }
